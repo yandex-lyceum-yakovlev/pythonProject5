@@ -1,0 +1,15 @@
+DAWG-Python==0.7.2
+dijkstra==0.2.1
+docopt==0.6.2
+lxml==4.6.4
+Pillow==8.4.0
+pip==21.1.2
+pymorphy2==0.9.1
+pymorphy2-dicts-ru==2.4.417127.4579844
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+PyQt5-stubs==5.15.2.0
+python-docx==0.8.11
+setuptools==57.0.0
+wheel==0.36.2
